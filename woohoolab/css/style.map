@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/style.css",
+	"sources": [
+		"../sass/style.scss"
+	],
+	"sourcesContent": [
+		".masthead {\r\n  height: 100vh;\r\n  min-height: 500px;\r\n  background-image:\r\n  linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),\r\n  url('../foto/endgame.png');\r\n  background-size: cover;\r\n  background-position: top;\r\n  background-repeat: no-repeat;\r\n\r\n.nav-item {\r\n  font-family: 'Raleway', sans-serif;\r\n}\r\nh1 {\r\n  font-family: 'Raleway', sans-serif;\r\n  font-weight: bold;\r\n  color: white;\r\n  padding-top: 400px;\r\n  font-size: 30pt;\r\n}\r\np .lead {\r\n  font-family: 'Roboto', sans-serif;\r\n  color: white;\r\n}\r\n}\r\nh4 {\r\n  font-family: 'Raleway', sans-serif;\r\n  font-weight: 800;\r\n}\r\n\r\nsection#rezerBil .btn {\r\n  border-radius: 50% !important;\r\n  border-color: #f26c4f;\r\n  width: 28px;\r\n  height: 28px;\r\n}\r\nsection#rezerBil input {\r\n  width: 40px;\r\n  height: 40px;\r\n}\r\nsection#rezerBil img {\r\n  max-height: 361px;\r\n}\r\n#slides {\r\n  color: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));\r\n}\r\n"
+	],
+	"mappings": ";AAAA,AAAA,SAAS,CAAC;EACR,MAAM,EAAE,KAAM;EACd,UAAU,EAAE,KAAM;EAClB,gBAAgB,EAChB,uDAAe,EACf,0BAAG;EACH,eAAe,EAAE,KAAM;EACvB,mBAAmB,EAAE,GAAI;EACzB,iBAAiB,EAAE,SAAU;CAgB9B;;;AAxBD,AAUA,SAVS,CAUT,SAAS,CAAC;EACR,WAAW,EAAE,qBAAsB;CACpC;;;AAZD,AAaA,SAbS,CAaT,EAAE,CAAC;EACD,WAAW,EAAE,qBAAsB;EACnC,WAAW,EAAE,IAAK;EAClB,KAAK,EAAE,KAAM;EACb,WAAW,EAAE,KAAM;EACnB,SAAS,EAAE,IAAK;CACjB;;;AAnBD,AAoBE,SApBO,CAoBT,CAAC,CAAC,KAAK,CAAC;EACN,WAAW,EAAE,oBAAqB;EAClC,KAAK,EAAE,KAAM;CACd;;;AAED,AAAA,EAAE,CAAC;EACD,WAAW,EAAE,qBAAsB;EACnC,WAAW,EAAE,GAAI;CAClB;;;AAED,AAAiB,OAAV,AAAA,SAAS,CAAC,IAAI,CAAC;EACpB,aAAa,EAAE,cAAe;EAC9B,YAAY,EAAE,OAAQ;EACtB,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;CACd;;;AACD,AAAiB,OAAV,AAAA,SAAS,CAAC,KAAK,CAAC;EACrB,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;CACd;;;AACD,AAAiB,OAAV,AAAA,SAAS,CAAC,GAAG,CAAC;EACnB,UAAU,EAAE,KAAM;CACnB;;;AACD,AAAA,OAAO,CAAC;EACN,KAAK,EAAE,uDAAe;CACvB",
+	"names": []
+}
