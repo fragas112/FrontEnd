@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/style2.css",
+	"sources": [
+		"../sass/style2.scss"
+	],
+	"sourcesContent": [
+		"// .carousel {\r\n//     height: 100vh;\r\n//     width: 100%;\r\n//     overflow:hidden;\r\n// }\r\n// // .carousel .carousel-inner {\r\n// //     height:100%;\r\n// // }\r\n\r\n.carousel-inner img {\r\n  width: 100%;\r\n  margin: auto;\r\n  min-height: 625px;\r\n  max-height: 625px;\r\n  object-fit: cover;\r\n  // background: black;\r\n  // opacity: 0.3;\r\n}\r\n\r\n\r\n// .overlay {\r\n//     position: absolute;\r\n//     width: 100%;\r\n//     height: 100%;\r\n//     background: black;\r\n//     opacity: 0.3;\r\n// }\r\n\r\n.carousel-caption {\r\n      top: 40%;\r\n      bottom: auto;\r\n}\r\n\r\n.nav-item {\r\n  font-family: 'Raleway', sans-serif;\r\n\r\n}\r\n.nav-link {\r\n    color: white !important;\r\n    text-transform:uppercase;\r\n}\r\n\r\nh2 .display-4 {\r\n  font-family: 'Raleway', sans-serif;\r\n  font-weight: bold;\r\n  color: white;\r\n  font-size: 45pt;\r\n}\r\np .lead {\r\n  font-family: 'Roboto', sans-serif;\r\n  color: white;\r\n}\r\n\r\n.card-horizontal {\r\n    display: flex;\r\n    flex: 1 1 auto;\r\n}\r\n"
+	],
+	"mappings": ";AASA,AAAgB,eAAD,CAAC,GAAG,CAAC;EAClB,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,IAAK;EACb,UAAU,EAAE,KAAM;EAClB,UAAU,EAAE,KAAM;EAClB,UAAU,EAAE,KAAM;CAGnB;;;AAWD,AAAA,iBAAiB,CAAC;EACZ,GAAG,EAAE,GAAI;EACT,MAAM,EAAE,IAAK;CAClB;;;AAED,AAAA,SAAS,CAAC;EACR,WAAW,EAAE,qBAAsB;CAEpC;;;AACD,AAAA,SAAS,CAAC;EACN,KAAK,EAAE,gBAAiB;EACxB,cAAc,EAAC,SAAU;CAC5B;;;AAED,AAAG,EAAD,CAAC,UAAU,CAAC;EACZ,WAAW,EAAE,qBAAsB;EACnC,WAAW,EAAE,IAAK;EAClB,KAAK,EAAE,KAAM;EACb,SAAS,EAAE,IAAK;CACjB;;;AACD,AAAE,CAAD,CAAC,KAAK,CAAC;EACN,WAAW,EAAE,oBAAqB;EAClC,KAAK,EAAE,KAAM;CACd;;;AAED,AAAA,gBAAgB,CAAC;EACb,OAAO,EAAE,IAAK;EACd,IAAI,EAAE,QAAS;CAClB",
+	"names": []
+}
